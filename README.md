@@ -20,11 +20,14 @@ You will step into the shoes of either a Migrant seeking a new life or a Border 
 ### Running the Game:
 
 1.  Navigate to the game's directory in your terminal.
-2.  Run the main script (assuming it's `main.py` or `laa.py`):
+2.  Run the main script:
     ```bash
     python main.py
     ```
-    (Replace `main.py` with `laa.py` if that's your main file name).
+    [0R]
+    ```bash
+    python3 main.py
+    ```
 
 ### Character Creation:
 
